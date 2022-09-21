@@ -6,6 +6,8 @@ baguette = 0
 tak = 0
 pistol = 0
 
+
+
 def jobbintervju():
     global navn
     print()
